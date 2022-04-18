@@ -21,3 +21,9 @@ Vape Webhook Nuker, Spams your webhook then gives the option to delete it.
 3. Extract it and go into the folders
 4. After going into the folders, just open Vape Webhook Nuker.
 5. Enjoy!
+
+## Credits
+
+I give some credits to hot#2050, as he did give me the name and the idea to make this.
+Another thing to mention, this is an open src so please dont skid.
+If you do skid at least give some credits.
