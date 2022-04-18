@@ -19,7 +19,7 @@ Vape Webhook Nuker, Spams your webhook then gives the option to delete it.
 1. To install click the green button where it says code
 2. Click download zip.
 3. Extract it and go into the folders
-4. After going into the folders, just open Vape Webhook Nuker.
+4. After going into the folders, just open Vape Webhook Nuker.bat
 5. Enjoy!
 
 ## Credits
